@@ -1,15 +1,21 @@
 ### Hi there, I'm Matthew 👋
+
+I am a postgraduate researcher at the University of Liverpool :mortar_board:
+
+My research focuses on developing scalable Bayesian inference algorithms that are capable of utilising distributed and high-performance compute.
+
+Some more about me..
+
+- 🔭 I’m currently working on scalable several Bayesian inference, Natural Language Processing and COVID modelling projects
+- 📚 My research interests are: Bayesian inference, machine learning, artificial intelligence, distributed and high performance computing
+- 🌱 I’m currently learning how to develop websites (using Gatsby, Strapi, react)
+- 📫 Connect with me on twitter [@mjcarter955](https://twitter.com/mjcarter955)
+- 📄 Read more about my research on my website [mjcarter.co](https://mjcarter.co)
+
 [![Twitter Badge](https://img.shields.io/badge/-@mjcarter955-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mjcarter955)](https://twitter.com/mjcarter955) [![Linkedin Badge](https://img.shields.io/badge/-mjcarter95-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mjcarter95/)](https://www.linkedin.com/in/mjcarter95/)
 [![Gmail Badge](https://img.shields.io/badge/-m.j.carter2@liverpool.ac.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.j.carter2@liverpool.ac.uk)](mailto:m.j.carter2@liverpool.ac.uk)
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjcarter95&show_icons=true&hide_border=false&theme=react&layout=compact&langs_count=4" />
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=mjcarter95&show_icons=true&hide_border=false&theme=react" />
+</div>
