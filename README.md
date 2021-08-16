@@ -6,7 +6,7 @@ My research focuses on developing scalable Bayesian inference algorithms that ar
 
 Some more about me..
 
-- 🔭 I’m currently working on scalable several Bayesian inference, Natural Language Processing and COVID modelling projects
+- 🔭 I’m currently working on scalable Bayesian inference, Natural Language Processing and COVID modelling projects
 - 📚 My research interests are: Bayesian inference, machine learning, artificial intelligence, distributed and high performance computing
 - 🌱 I’m currently learning how to develop websites (using Gatsby, Strapi, react)
 - 📫 Connect with me on twitter [@mjcarter955](https://twitter.com/mjcarter955)
