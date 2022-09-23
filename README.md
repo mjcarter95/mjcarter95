@@ -2,7 +2,7 @@
 
 I am a postgraduate researcher at the University of Liverpool :mortar_board:
 
-My research is focused on developing scalable Bayesian inference algorithms that are capable of utilising distributed and high-performance compute.
+My research is focused on developing scalable numerical Bayesian inference algorithms that utilise distributed, opportunistic and high-performance compute.
 
 Some more about me..
 
