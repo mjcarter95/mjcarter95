@@ -9,10 +9,9 @@ Some more about me..
 - 🔭 I’m currently working on scalable Bayesian inference, Natural Language Processing and COVID modelling projects
 - 📚 My research interests are: Bayesian inference, machine learning, artificial intelligence, distributed and high performance computing
 - 📷 I like to take photographs in my spare time, you can see them at [mjcarterphoto](https://instagram.com/mjcarterphoto)
-- 📫 Connect with me on twitter [@mjcarter955](https://twitter.com/mjcarter955)
 - 📄 Read more about my research on my website [mjcarter.co](https://mjcarter.co)
 
-[![Twitter Badge](https://img.shields.io/badge/-@mjcarter955-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mjcarter955)](https://twitter.com/mjcarter955) [![Linkedin Badge](https://img.shields.io/badge/-mjcarter95-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mjcarter95/)](https://www.linkedin.com/in/mjcarter95/)
+[![Linkedin Badge](https://img.shields.io/badge/-mjcarter95-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mjcarter95/)](https://www.linkedin.com/in/mjcarter95/)
 [![Gmail Badge](https://img.shields.io/badge/-m.j.carter2@liverpool.ac.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.j.carter2@liverpool.ac.uk)](mailto:m.j.carter2@liverpool.ac.uk)
 
 <div>
