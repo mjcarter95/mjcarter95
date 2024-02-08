@@ -8,7 +8,7 @@ Some more about me..
 
 - 🔭 I’m currently working on scalable Bayesian inference, Natural Language Processing and COVID modelling projects
 - 📚 My research interests are: Bayesian inference, machine learning, artificial intelligence, distributed and high performance computing
-- 📷 I like to take photographs in my spare time, you can see them at [mjcarterphoto](https://instagram.com/mjcarterphoto)
+- 📷 I like to take photographs in my spare time, you can see them at [mjc.dng](https://instagram.com/mjc.dng)
 - 📄 Read more about my research on my website [mjcarter.co](https://mjcarter.co)
 
 [![Linkedin Badge](https://img.shields.io/badge/-mjcarter95-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mjcarter95/)](https://www.linkedin.com/in/mjcarter95/)
