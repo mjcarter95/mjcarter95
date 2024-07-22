@@ -1,13 +1,12 @@
 ### Hi there, I'm Matthew 👋
 
-I am a postgraduate researcher at the University of Liverpool :mortar_board:
+I am a Research Associate in the Signal Processing Group at the University of Liverpool and am completing my PhD in the Distributed Algorithms CDT :mortar_board:
 
-My research is focused on developing scalable numerical Bayesian inference algorithms that utilise distributed, opportunistic and high-performance compute.
+I am enthusiastic about the interface between AI and Parallel/Distributed Computing, and am particularly interested in how these methods can aid the decision making process.
 
-Some more about me..
+Some more about me...
 
-- 🔭 I’m currently working on scalable Bayesian inference, Natural Language Processing and COVID modelling projects
-- 📚 My research interests are: Bayesian inference, machine learning, artificial intelligence, distributed and high performance computing
+- 📚 My research interests are: Bayesian inference, Bayesian decision making, machine learning, artificial intelligence, distributed and high-performance computing, and natural language processing
 - 📷 I like to take photographs in my spare time, you can see them at [mjc.dng](https://instagram.com/mjc.dng)
 - 📄 Read more about my research on my website [mjcarter.co](https://mjcarter.co)
 
