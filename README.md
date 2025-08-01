@@ -11,7 +11,7 @@ Some more about me...
 - 📄 You can read more about my research on my website [mjcarter.co](https://mjcarter.co)
 
 [![Linkedin Badge](https://img.shields.io/badge/-mjcarter95-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mjcarter95/)](https://www.linkedin.com/in/mjcarter95/)
-[![Gmail Badge](https://img.shields.io/badge/-m.j.carter2@liverpool.ac.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matthew.carter@liverpool.ac.uk)](mailto:m.j.carter2@liverpool.ac.uk)
+[![Gmail Badge](https://img.shields.io/badge/-matthew.carter@liverpool.ac.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matthew.carter@liverpool.ac.uk)](mailto:matthew.carter@liverpool.ac.uk)
 
 <div>
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjcarter95&show_icons=true&hide_border=false&theme=react&layout=compact&langs_count=4" />
